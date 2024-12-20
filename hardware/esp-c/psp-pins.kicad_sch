@@ -12,6 +12,2454 @@
 		(comment 4 "UNDER REVIEW - SUBJECT TO CHANGE")
 	)
 	(lib_symbols
+		(symbol "1N5819WS_1"
+			(pin_numbers hide)
+			(pin_names hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "1N5819WS"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "JLCPCB_footprint:SOD-323_L1.8-W1.3-LS2.5-RD"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://item.szlcsc.com/295156.html"
+				(at -2.286 0.127 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "shotkey diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C191023"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "C191023"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "1N5819WS_1_0_1"
+				(polyline
+					(pts
+						(xy -1.27 0) (xy -1.27 -2.032) (xy -0.762 -2.032) (xy -0.762 -1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 0) (xy -1.27 2.032) (xy -1.778 2.032) (xy -1.778 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 1.524) (xy -1.27 0) (xy 1.27 -1.778) (xy 1.27 1.524)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "K"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 180)
+					(length 3.81)
+					(name "A"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "1N5819WS_10"
+			(pin_numbers hide)
+			(pin_names hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "1N5819WS"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "JLCPCB_footprint:SOD-323_L1.8-W1.3-LS2.5-RD"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://item.szlcsc.com/295156.html"
+				(at -2.286 0.127 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "shotkey diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C191023"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "C191023"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "1N5819WS_10_0_1"
+				(polyline
+					(pts
+						(xy -1.27 0) (xy -1.27 -2.032) (xy -0.762 -2.032) (xy -0.762 -1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 0) (xy -1.27 2.032) (xy -1.778 2.032) (xy -1.778 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 1.524) (xy -1.27 0) (xy 1.27 -1.778) (xy 1.27 1.524)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "K"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 180)
+					(length 3.81)
+					(name "A"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "1N5819WS_11"
+			(pin_numbers hide)
+			(pin_names hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "1N5819WS"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "JLCPCB_footprint:SOD-323_L1.8-W1.3-LS2.5-RD"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://item.szlcsc.com/295156.html"
+				(at -2.286 0.127 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "shotkey diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C191023"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "C191023"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "1N5819WS_11_0_1"
+				(polyline
+					(pts
+						(xy -1.27 0) (xy -1.27 -2.032) (xy -0.762 -2.032) (xy -0.762 -1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 0) (xy -1.27 2.032) (xy -1.778 2.032) (xy -1.778 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 1.524) (xy -1.27 0) (xy 1.27 -1.778) (xy 1.27 1.524)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "K"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 180)
+					(length 3.81)
+					(name "A"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "1N5819WS_12"
+			(pin_numbers hide)
+			(pin_names hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "1N5819WS"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "JLCPCB_footprint:SOD-323_L1.8-W1.3-LS2.5-RD"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://item.szlcsc.com/295156.html"
+				(at -2.286 0.127 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "shotkey diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C191023"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "C191023"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "1N5819WS_12_0_1"
+				(polyline
+					(pts
+						(xy -1.27 0) (xy -1.27 -2.032) (xy -0.762 -2.032) (xy -0.762 -1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 0) (xy -1.27 2.032) (xy -1.778 2.032) (xy -1.778 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 1.524) (xy -1.27 0) (xy 1.27 -1.778) (xy 1.27 1.524)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "K"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 180)
+					(length 3.81)
+					(name "A"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "1N5819WS_13"
+			(pin_numbers hide)
+			(pin_names hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "1N5819WS"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "JLCPCB_footprint:SOD-323_L1.8-W1.3-LS2.5-RD"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://item.szlcsc.com/295156.html"
+				(at -2.286 0.127 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "shotkey diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C191023"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "C191023"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "1N5819WS_13_0_1"
+				(polyline
+					(pts
+						(xy -1.27 0) (xy -1.27 -2.032) (xy -0.762 -2.032) (xy -0.762 -1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 0) (xy -1.27 2.032) (xy -1.778 2.032) (xy -1.778 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 1.524) (xy -1.27 0) (xy 1.27 -1.778) (xy 1.27 1.524)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "K"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 180)
+					(length 3.81)
+					(name "A"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "1N5819WS_14"
+			(pin_numbers hide)
+			(pin_names hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "1N5819WS"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "JLCPCB_footprint:SOD-323_L1.8-W1.3-LS2.5-RD"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://item.szlcsc.com/295156.html"
+				(at -2.286 0.127 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "shotkey diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C191023"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "C191023"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "1N5819WS_14_0_1"
+				(polyline
+					(pts
+						(xy -1.27 0) (xy -1.27 -2.032) (xy -0.762 -2.032) (xy -0.762 -1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 0) (xy -1.27 2.032) (xy -1.778 2.032) (xy -1.778 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 1.524) (xy -1.27 0) (xy 1.27 -1.778) (xy 1.27 1.524)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "K"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 180)
+					(length 3.81)
+					(name "A"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "1N5819WS_15"
+			(pin_numbers hide)
+			(pin_names hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "1N5819WS"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "JLCPCB_footprint:SOD-323_L1.8-W1.3-LS2.5-RD"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://item.szlcsc.com/295156.html"
+				(at -2.286 0.127 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "shotkey diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C191023"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "C191023"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "1N5819WS_15_0_1"
+				(polyline
+					(pts
+						(xy -1.27 0) (xy -1.27 -2.032) (xy -0.762 -2.032) (xy -0.762 -1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 0) (xy -1.27 2.032) (xy -1.778 2.032) (xy -1.778 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 1.524) (xy -1.27 0) (xy 1.27 -1.778) (xy 1.27 1.524)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "K"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 180)
+					(length 3.81)
+					(name "A"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "1N5819WS_16"
+			(pin_numbers hide)
+			(pin_names hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "1N5819WS"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "JLCPCB_footprint:SOD-323_L1.8-W1.3-LS2.5-RD"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://item.szlcsc.com/295156.html"
+				(at -2.286 0.127 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "shotkey diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C191023"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "C191023"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "1N5819WS_16_0_1"
+				(polyline
+					(pts
+						(xy -1.27 0) (xy -1.27 -2.032) (xy -0.762 -2.032) (xy -0.762 -1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 0) (xy -1.27 2.032) (xy -1.778 2.032) (xy -1.778 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 1.524) (xy -1.27 0) (xy 1.27 -1.778) (xy 1.27 1.524)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "K"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 180)
+					(length 3.81)
+					(name "A"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "1N5819WS_17"
+			(pin_numbers hide)
+			(pin_names hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "1N5819WS"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "JLCPCB_footprint:SOD-323_L1.8-W1.3-LS2.5-RD"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://item.szlcsc.com/295156.html"
+				(at -2.286 0.127 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "shotkey diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C191023"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "C191023"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "1N5819WS_17_0_1"
+				(polyline
+					(pts
+						(xy -1.27 0) (xy -1.27 -2.032) (xy -0.762 -2.032) (xy -0.762 -1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 0) (xy -1.27 2.032) (xy -1.778 2.032) (xy -1.778 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 1.524) (xy -1.27 0) (xy 1.27 -1.778) (xy 1.27 1.524)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "K"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 180)
+					(length 3.81)
+					(name "A"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "1N5819WS_2"
+			(pin_numbers hide)
+			(pin_names hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "1N5819WS"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "JLCPCB_footprint:SOD-323_L1.8-W1.3-LS2.5-RD"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://item.szlcsc.com/295156.html"
+				(at -2.286 0.127 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "shotkey diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C191023"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "C191023"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "1N5819WS_2_0_1"
+				(polyline
+					(pts
+						(xy -1.27 0) (xy -1.27 -2.032) (xy -0.762 -2.032) (xy -0.762 -1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 0) (xy -1.27 2.032) (xy -1.778 2.032) (xy -1.778 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 1.524) (xy -1.27 0) (xy 1.27 -1.778) (xy 1.27 1.524)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "K"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 180)
+					(length 3.81)
+					(name "A"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "1N5819WS_3"
+			(pin_numbers hide)
+			(pin_names hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "1N5819WS"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "JLCPCB_footprint:SOD-323_L1.8-W1.3-LS2.5-RD"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://item.szlcsc.com/295156.html"
+				(at -2.286 0.127 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "shotkey diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C191023"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "C191023"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "1N5819WS_3_0_1"
+				(polyline
+					(pts
+						(xy -1.27 0) (xy -1.27 -2.032) (xy -0.762 -2.032) (xy -0.762 -1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 0) (xy -1.27 2.032) (xy -1.778 2.032) (xy -1.778 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 1.524) (xy -1.27 0) (xy 1.27 -1.778) (xy 1.27 1.524)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "K"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 180)
+					(length 3.81)
+					(name "A"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "1N5819WS_4"
+			(pin_numbers hide)
+			(pin_names hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "1N5819WS"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "JLCPCB_footprint:SOD-323_L1.8-W1.3-LS2.5-RD"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://item.szlcsc.com/295156.html"
+				(at -2.286 0.127 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "shotkey diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C191023"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "C191023"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "1N5819WS_4_0_1"
+				(polyline
+					(pts
+						(xy -1.27 0) (xy -1.27 -2.032) (xy -0.762 -2.032) (xy -0.762 -1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 0) (xy -1.27 2.032) (xy -1.778 2.032) (xy -1.778 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 1.524) (xy -1.27 0) (xy 1.27 -1.778) (xy 1.27 1.524)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "K"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 180)
+					(length 3.81)
+					(name "A"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "1N5819WS_5"
+			(pin_numbers hide)
+			(pin_names hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "1N5819WS"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "JLCPCB_footprint:SOD-323_L1.8-W1.3-LS2.5-RD"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://item.szlcsc.com/295156.html"
+				(at -2.286 0.127 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "shotkey diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C191023"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "C191023"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "1N5819WS_5_0_1"
+				(polyline
+					(pts
+						(xy -1.27 0) (xy -1.27 -2.032) (xy -0.762 -2.032) (xy -0.762 -1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 0) (xy -1.27 2.032) (xy -1.778 2.032) (xy -1.778 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 1.524) (xy -1.27 0) (xy 1.27 -1.778) (xy 1.27 1.524)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "K"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 180)
+					(length 3.81)
+					(name "A"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "1N5819WS_6"
+			(pin_numbers hide)
+			(pin_names hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "1N5819WS"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "JLCPCB_footprint:SOD-323_L1.8-W1.3-LS2.5-RD"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://item.szlcsc.com/295156.html"
+				(at -2.286 0.127 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "shotkey diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C191023"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "C191023"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "1N5819WS_6_0_1"
+				(polyline
+					(pts
+						(xy -1.27 0) (xy -1.27 -2.032) (xy -0.762 -2.032) (xy -0.762 -1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 0) (xy -1.27 2.032) (xy -1.778 2.032) (xy -1.778 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 1.524) (xy -1.27 0) (xy 1.27 -1.778) (xy 1.27 1.524)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "K"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 180)
+					(length 3.81)
+					(name "A"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "1N5819WS_7"
+			(pin_numbers hide)
+			(pin_names hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "1N5819WS"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "JLCPCB_footprint:SOD-323_L1.8-W1.3-LS2.5-RD"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://item.szlcsc.com/295156.html"
+				(at -2.286 0.127 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "shotkey diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C191023"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "C191023"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "1N5819WS_7_0_1"
+				(polyline
+					(pts
+						(xy -1.27 0) (xy -1.27 -2.032) (xy -0.762 -2.032) (xy -0.762 -1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 0) (xy -1.27 2.032) (xy -1.778 2.032) (xy -1.778 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 1.524) (xy -1.27 0) (xy 1.27 -1.778) (xy 1.27 1.524)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "K"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 180)
+					(length 3.81)
+					(name "A"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "1N5819WS_8"
+			(pin_numbers hide)
+			(pin_names hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "1N5819WS"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "JLCPCB_footprint:SOD-323_L1.8-W1.3-LS2.5-RD"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://item.szlcsc.com/295156.html"
+				(at -2.286 0.127 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "shotkey diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C191023"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "C191023"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "1N5819WS_8_0_1"
+				(polyline
+					(pts
+						(xy -1.27 0) (xy -1.27 -2.032) (xy -0.762 -2.032) (xy -0.762 -1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 0) (xy -1.27 2.032) (xy -1.778 2.032) (xy -1.778 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 1.524) (xy -1.27 0) (xy 1.27 -1.778) (xy 1.27 1.524)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "K"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 180)
+					(length 3.81)
+					(name "A"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "1N5819WS_9"
+			(pin_numbers hide)
+			(pin_names hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "1N5819WS"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "JLCPCB_footprint:SOD-323_L1.8-W1.3-LS2.5-RD"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://item.szlcsc.com/295156.html"
+				(at -2.286 0.127 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "shotkey diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C191023"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "C191023"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "1N5819WS_9_0_1"
+				(polyline
+					(pts
+						(xy -1.27 0) (xy -1.27 -2.032) (xy -0.762 -2.032) (xy -0.762 -1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 0) (xy -1.27 2.032) (xy -1.778 2.032) (xy -1.778 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 1.524) (xy -1.27 0) (xy 1.27 -1.778) (xy 1.27 1.524)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "K"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 180)
+					(length 3.81)
+					(name "A"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "Connector:TestPoint"
 			(pin_numbers hide)
 			(pin_names
@@ -115,6 +2563,8 @@
 			)
 		)
 		(symbol "JLCPCB_schematic:1N5819WS"
+			(pin_numbers hide)
+			(pin_names hide)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -1723,16 +4173,22 @@
 		(uuid "1896fa0a-7be6-4e32-ae1c-a61fbc913e29")
 	)
 	(junction
+		(at 214.63 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1c1f08a5-e6b0-4486-97f9-f537854e8883")
+	)
+	(junction
+		(at 205.74 101.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5393828e-882a-45a9-b47d-b6d9239c1d1e")
+	)
+	(junction
 		(at 209.55 106.68)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5fd9393d-3d3a-41c6-992e-fa3113f924ca")
-	)
-	(junction
-		(at 215.9 83.82)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "605a8c16-f949-4652-a8e7-a002d8c8b3e4")
 	)
 	(junction
 		(at 213.36 104.14)
@@ -1741,17 +4197,17 @@
 		(uuid "67255157-ecdd-4ce8-b073-bca9b68e2338")
 	)
 	(junction
-		(at 207.01 101.6)
+		(at 195.58 45.72)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "7e0b44b5-598c-42e7-bad2-959444a2a153")
+		(uuid "ce66cfdf-03da-4f4a-9454-5ed3424ad1ab")
 	)
 	(no_connect
 		(at 217.17 91.44)
 		(uuid "01214281-ba21-41d8-adb8-9be4f1001b07")
 	)
 	(no_connect
-		(at 139.7 97.79)
+		(at 55.88 104.14)
 		(uuid "1e0200f1-d438-4557-a50f-7aea0dc9b0d1")
 	)
 	(no_connect
@@ -1759,27 +4215,27 @@
 		(uuid "249a6479-6622-423a-889b-290e13f333c4")
 	)
 	(no_connect
-		(at 68.58 63.5)
+		(at 55.88 66.04)
 		(uuid "2b095d72-283a-453f-a54e-61e835e21b20")
 	)
 	(no_connect
-		(at 54.61 113.03)
+		(at 58.42 143.51)
 		(uuid "2e891b9f-ef01-4b76-8243-f592f7aaa0ae")
 	)
 	(no_connect
-		(at 68.58 66.04)
+		(at 55.88 68.58)
 		(uuid "3030b804-e1a9-4f03-af49-86667fdc88dd")
 	)
 	(no_connect
-		(at 54.61 125.73)
+		(at 58.42 156.21)
 		(uuid "3e54d51a-ed6f-41e5-ad0e-052f38c17aa4")
 	)
 	(no_connect
-		(at 68.58 58.42)
+		(at 55.88 60.96)
 		(uuid "64928e1d-5935-4e9e-8c70-a61570472df8")
 	)
 	(no_connect
-		(at 54.61 133.35)
+		(at 58.42 163.83)
 		(uuid "65a95e2d-5a3f-4a7d-b9e1-e337239bc19d")
 	)
 	(no_connect
@@ -1787,15 +4243,15 @@
 		(uuid "763e5872-8ffc-417a-aa63-aed7f9070af4")
 	)
 	(no_connect
-		(at 54.61 115.57)
+		(at 58.42 146.05)
 		(uuid "787ef328-ea43-47d3-ac21-f38478f86c62")
 	)
 	(no_connect
-		(at 68.58 68.58)
+		(at 55.88 71.12)
 		(uuid "86957c59-004b-44ca-96b5-75ecf3cc0b06")
 	)
 	(no_connect
-		(at 54.61 128.27)
+		(at 58.42 158.75)
 		(uuid "87415209-53b7-4d86-a557-f304ad8849bb")
 	)
 	(no_connect
@@ -1803,7 +4259,7 @@
 		(uuid "8f7ee6cb-6f2d-4804-be0f-b16b810cd06f")
 	)
 	(no_connect
-		(at 139.7 100.33)
+		(at 55.88 106.68)
 		(uuid "99a4ab67-3f41-4e3c-8fb2-e38c3049f6d2")
 	)
 	(no_connect
@@ -1815,28 +4271,28 @@
 		(uuid "b4e61c63-bf5f-4913-b202-48c32ed10d1f")
 	)
 	(no_connect
-		(at 139.7 102.87)
+		(at 55.88 109.22)
 		(uuid "b5757fd5-0d68-4b7c-a02e-6bb863c8c6b5")
 	)
 	(no_connect
-		(at 54.61 120.65)
+		(at 58.42 151.13)
 		(uuid "b78c978b-7f4d-4332-a79b-0163a6a5a84e")
 	)
 	(no_connect
-		(at 54.61 130.81)
+		(at 58.42 161.29)
 		(uuid "b98d7287-fae3-4928-9ede-7f34fd07ccc8")
 	)
 	(no_connect
-		(at 54.61 118.11)
+		(at 58.42 148.59)
 		(uuid "ed82dda6-df9c-41f0-a83e-ad7f2d4f0a87")
 	)
 	(no_connect
-		(at 68.58 60.96)
+		(at 55.88 63.5)
 		(uuid "f8bf40c4-4e23-4a60-a0be-a560c3f06d88")
 	)
 	(wire
 		(pts
-			(xy 43.18 140.97) (xy 54.61 140.97)
+			(xy 48.26 171.45) (xy 58.42 171.45)
 		)
 		(stroke
 			(width 0)
@@ -1846,7 +4302,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 104.14) (xy 213.36 104.14)
+			(xy 195.58 104.14) (xy 213.36 104.14)
 		)
 		(stroke
 			(width 0)
@@ -1856,7 +4312,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 35.56) (xy 196.85 35.56)
+			(xy 191.77 35.56) (xy 196.85 35.56)
 		)
 		(stroke
 			(width 0)
@@ -1866,7 +4322,7 @@
 	)
 	(wire
 		(pts
-			(xy 21.59 50.8) (xy 31.75 50.8)
+			(xy 31.75 53.34) (xy 35.56 53.34)
 		)
 		(stroke
 			(width 0)
@@ -1886,7 +4342,7 @@
 	)
 	(wire
 		(pts
-			(xy 21.59 55.88) (xy 31.75 55.88)
+			(xy 31.75 58.42) (xy 39.37 58.42)
 		)
 		(stroke
 			(width 0)
@@ -1896,7 +4352,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 110.49) (xy 110.49 110.49)
+			(xy 33.02 116.84) (xy 35.56 116.84)
 		)
 		(stroke
 			(width 0)
@@ -1906,7 +4362,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 50.8) (xy 68.58 50.8)
+			(xy 45.72 53.34) (xy 55.88 53.34)
 		)
 		(stroke
 			(width 0)
@@ -1916,7 +4372,27 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 40.64) (xy 196.85 40.64)
+			(xy 205.74 101.6) (xy 217.17 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1df62179-c00f-41fa-8f29-fb441d41ae62")
+	)
+	(wire
+		(pts
+			(xy 209.55 97.79) (xy 209.55 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2322880c-c0c3-43fb-856c-d930750961bc")
+	)
+	(wire
+		(pts
+			(xy 191.77 40.64) (xy 196.85 40.64)
 		)
 		(stroke
 			(width 0)
@@ -1926,7 +4402,7 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 90.17) (xy 110.49 90.17)
+			(xy 33.02 96.52) (xy 39.37 96.52)
 		)
 		(stroke
 			(width 0)
@@ -1936,7 +4412,7 @@
 	)
 	(wire
 		(pts
-			(xy 22.86 146.05) (xy 33.02 146.05)
+			(xy 35.56 176.53) (xy 41.91 176.53)
 		)
 		(stroke
 			(width 0)
@@ -1946,7 +4422,7 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 123.19) (xy 54.61 123.19)
+			(xy 55.88 153.67) (xy 58.42 153.67)
 		)
 		(stroke
 			(width 0)
@@ -1956,7 +4432,7 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 135.89) (xy 54.61 135.89)
+			(xy 55.88 166.37) (xy 58.42 166.37)
 		)
 		(stroke
 			(width 0)
@@ -1966,17 +4442,7 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 87.63) (xy 110.49 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4422e911-af43-467b-92df-b1d4cf5bfd56")
-	)
-	(wire
-		(pts
-			(xy 204.47 101.6) (xy 207.01 101.6)
+			(xy 195.58 101.6) (xy 205.74 101.6)
 		)
 		(stroke
 			(width 0)
@@ -1986,7 +4452,7 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 50.8) (xy 218.44 50.8)
+			(xy 217.17 50.8) (xy 224.79 50.8)
 		)
 		(stroke
 			(width 0)
@@ -1996,7 +4462,7 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 146.05) (xy 54.61 146.05)
+			(xy 52.07 176.53) (xy 58.42 176.53)
 		)
 		(stroke
 			(width 0)
@@ -2006,7 +4472,7 @@
 	)
 	(wire
 		(pts
-			(xy 22.86 140.97) (xy 33.02 140.97)
+			(xy 35.56 171.45) (xy 38.1 171.45)
 		)
 		(stroke
 			(width 0)
@@ -2016,7 +4482,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 53.34) (xy 68.58 53.34)
+			(xy 53.34 55.88) (xy 55.88 55.88)
 		)
 		(stroke
 			(width 0)
@@ -2026,7 +4492,7 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 105.41) (xy 139.7 105.41)
+			(xy 53.34 111.76) (xy 55.88 111.76)
 		)
 		(stroke
 			(width 0)
@@ -2036,7 +4502,27 @@
 	)
 	(wire
 		(pts
-			(xy 22.86 143.51) (xy 33.02 143.51)
+			(xy 213.36 97.79) (xy 213.36 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "55c39ba8-3a78-459f-89a5-039bf271659c")
+	)
+	(wire
+		(pts
+			(xy 262.89 63.5) (xy 262.89 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "58d8d042-da1c-4cd9-824b-5fb9d4247de9")
+	)
+	(wire
+		(pts
+			(xy 35.56 173.99) (xy 45.72 173.99)
 		)
 		(stroke
 			(width 0)
@@ -2046,7 +4532,7 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 72.39) (xy 215.9 83.82)
+			(xy 214.63 81.28) (xy 214.63 83.82)
 		)
 		(stroke
 			(width 0)
@@ -2066,17 +4552,37 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 104.14) (xy 213.36 111.76)
+			(xy 214.63 83.82) (xy 217.17 83.82)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6889dbee-c155-4f53-b733-edd9b5cf160d")
+		(uuid "68e77ca8-2999-4215-b652-2f7496265a28")
 	)
 	(wire
 		(pts
-			(xy 217.17 99.06) (xy 214.63 99.06)
+			(xy 205.74 97.79) (xy 205.74 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69a4da5f-c736-49d2-91a3-fd6b4e847015")
+	)
+	(wire
+		(pts
+			(xy 218.44 54.61) (xy 218.44 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69a54075-3b65-4ad6-89c7-697bbab73679")
+	)
+	(wire
+		(pts
+			(xy 217.17 99.06) (xy 215.9 99.06)
 		)
 		(stroke
 			(width 0)
@@ -2086,7 +4592,7 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 110.49) (xy 139.7 110.49)
+			(xy 45.72 116.84) (xy 55.88 116.84)
 		)
 		(stroke
 			(width 0)
@@ -2096,7 +4602,7 @@
 	)
 	(wire
 		(pts
-			(xy 209.55 72.39) (xy 209.55 86.36)
+			(xy 209.55 81.28) (xy 209.55 86.36)
 		)
 		(stroke
 			(width 0)
@@ -2116,17 +4622,17 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 85.09) (xy 102.87 85.09)
+			(xy 195.58 54.61) (xy 195.58 45.72)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "72dddb67-b1e8-4816-88ad-596a488ee80e")
+		(uuid "70b485e6-990f-4d58-9bf3-a9e582d5bfbb")
 	)
 	(wire
 		(pts
-			(xy 21.59 53.34) (xy 31.75 53.34)
+			(xy 31.75 55.88) (xy 43.18 55.88)
 		)
 		(stroke
 			(width 0)
@@ -2136,17 +4642,7 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 85.09) (xy 102.87 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7391a1d6-c3fd-4f0a-8416-649892d29e37")
-	)
-	(wire
-		(pts
-			(xy 96.52 95.25) (xy 110.49 95.25)
+			(xy 33.02 101.6) (xy 43.18 101.6)
 		)
 		(stroke
 			(width 0)
@@ -2166,7 +4662,7 @@
 	)
 	(wire
 		(pts
-			(xy 21.59 48.26) (xy 31.75 48.26)
+			(xy 31.75 50.8) (xy 39.37 50.8)
 		)
 		(stroke
 			(width 0)
@@ -2176,7 +4672,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 105.41) (xy 110.49 105.41)
+			(xy 33.02 111.76) (xy 43.18 111.76)
 		)
 		(stroke
 			(width 0)
@@ -2186,17 +4682,7 @@
 	)
 	(wire
 		(pts
-			(xy 257.81 52.07) (xy 264.16 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "834844ab-12cc-4f0d-be79-79894a39188e")
-	)
-	(wire
-		(pts
-			(xy 214.63 99.06) (xy 214.63 97.79)
+			(xy 215.9 110.49) (xy 215.9 99.06)
 		)
 		(stroke
 			(width 0)
@@ -2206,13 +4692,23 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 106.68) (xy 209.55 106.68)
+			(xy 195.58 106.68) (xy 209.55 106.68)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "8fa82c30-e497-4bab-9e45-c4b492bd31c2")
+	)
+	(wire
+		(pts
+			(xy 195.58 45.72) (xy 196.85 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "912f1b07-7a27-4679-b309-2f4eb499e33a")
 	)
 	(wire
 		(pts
@@ -2226,7 +4722,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 83.82) (xy 215.9 83.82)
+			(xy 201.93 83.82) (xy 214.63 83.82)
 		)
 		(stroke
 			(width 0)
@@ -2236,7 +4732,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 86.36) (xy 209.55 86.36)
+			(xy 201.93 86.36) (xy 209.55 86.36)
 		)
 		(stroke
 			(width 0)
@@ -2246,17 +4742,17 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 101.6) (xy 217.17 101.6)
+			(xy 218.44 45.72) (xy 217.17 45.72)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a30ab59b-1f36-4b23-8d9a-b8d9c3520395")
+		(uuid "9e89775a-ae0f-4834-8bcf-caae2258646e")
 	)
 	(wire
 		(pts
-			(xy 232.41 48.26) (xy 217.17 48.26)
+			(xy 224.79 48.26) (xy 217.17 48.26)
 		)
 		(stroke
 			(width 0)
@@ -2266,7 +4762,7 @@
 	)
 	(wire
 		(pts
-			(xy 22.86 123.19) (xy 34.29 123.19)
+			(xy 35.56 153.67) (xy 45.72 153.67)
 		)
 		(stroke
 			(width 0)
@@ -2276,7 +4772,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 92.71) (xy 110.49 92.71)
+			(xy 33.02 99.06) (xy 35.56 99.06)
 		)
 		(stroke
 			(width 0)
@@ -2286,7 +4782,17 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 87.63) (xy 139.7 87.63)
+			(xy 262.89 52.07) (xy 264.16 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a96e45a9-44e4-4e40-a575-4de65c765457")
+	)
+	(wire
+		(pts
+			(xy 53.34 93.98) (xy 55.88 93.98)
 		)
 		(stroke
 			(width 0)
@@ -2296,7 +4802,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 48.26) (xy 68.58 48.26)
+			(xy 49.53 50.8) (xy 55.88 50.8)
 		)
 		(stroke
 			(width 0)
@@ -2316,7 +4822,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 38.1) (xy 196.85 38.1)
+			(xy 191.77 38.1) (xy 196.85 38.1)
 		)
 		(stroke
 			(width 0)
@@ -2326,7 +4832,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 107.95) (xy 110.49 107.95)
+			(xy 33.02 114.3) (xy 39.37 114.3)
 		)
 		(stroke
 			(width 0)
@@ -2336,7 +4842,7 @@
 	)
 	(wire
 		(pts
-			(xy 22.86 135.89) (xy 33.02 135.89)
+			(xy 35.56 166.37) (xy 45.72 166.37)
 		)
 		(stroke
 			(width 0)
@@ -2346,7 +4852,7 @@
 	)
 	(wire
 		(pts
-			(xy 21.59 45.72) (xy 31.75 45.72)
+			(xy 31.75 48.26) (xy 43.18 48.26)
 		)
 		(stroke
 			(width 0)
@@ -2356,7 +4862,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 48.26) (xy 196.85 48.26)
+			(xy 187.96 48.26) (xy 196.85 48.26)
 		)
 		(stroke
 			(width 0)
@@ -2366,17 +4872,17 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 97.79) (xy 212.09 97.79)
+			(xy 195.58 45.72) (xy 195.58 43.18)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "cdefed26-5d6f-47d3-8b04-d85b60801df6")
+		(uuid "cca42c35-f8b9-44b3-941e-ff2086841777")
 	)
 	(wire
 		(pts
-			(xy 120.65 95.25) (xy 139.7 95.25)
+			(xy 53.34 101.6) (xy 55.88 101.6)
 		)
 		(stroke
 			(width 0)
@@ -2396,7 +4902,7 @@
 	)
 	(wire
 		(pts
-			(xy 22.86 138.43) (xy 33.02 138.43)
+			(xy 35.56 168.91) (xy 41.91 168.91)
 		)
 		(stroke
 			(width 0)
@@ -2406,7 +4912,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 45.72) (xy 68.58 45.72)
+			(xy 53.34 48.26) (xy 55.88 48.26)
 		)
 		(stroke
 			(width 0)
@@ -2416,7 +4922,7 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 143.51) (xy 54.61 143.51)
+			(xy 55.88 173.99) (xy 58.42 173.99)
 		)
 		(stroke
 			(width 0)
@@ -2436,7 +4942,7 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 107.95) (xy 139.7 107.95)
+			(xy 49.53 114.3) (xy 55.88 114.3)
 		)
 		(stroke
 			(width 0)
@@ -2456,7 +4962,17 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 55.88) (xy 68.58 55.88)
+			(xy 33.02 93.98) (xy 43.18 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f13321a6-93e9-427f-8d49-9f68ca82ef43")
+	)
+	(wire
+		(pts
+			(xy 49.53 58.42) (xy 55.88 58.42)
 		)
 		(stroke
 			(width 0)
@@ -2466,17 +4982,7 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 83.82) (xy 217.17 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f5f5c436-e00d-4778-854e-fbc74e3338da")
-	)
-	(wire
-		(pts
-			(xy 43.18 138.43) (xy 54.61 138.43)
+			(xy 52.07 168.91) (xy 58.42 168.91)
 		)
 		(stroke
 			(width 0)
@@ -2486,7 +4992,17 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 90.17) (xy 139.7 90.17)
+			(xy 195.58 43.18) (xy 196.85 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fdd14ea0-48a6-49b7-ac30-70c0b1fa9757")
+	)
+	(wire
+		(pts
+			(xy 49.53 96.52) (xy 55.88 96.52)
 		)
 		(stroke
 			(width 0)
@@ -2496,7 +5012,7 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 92.71) (xy 139.7 92.71)
+			(xy 45.72 99.06) (xy 55.88 99.06)
 		)
 		(stroke
 			(width 0)
@@ -2506,7 +5022,7 @@
 	)
 	(text "I use diodes everywhere to try and protect PSP\nincase i send a pin high. No idea if itll work or even needed."
 		(exclude_from_sim no)
-		(at 125.222 39.624 0)
+		(at 79.502 31.75 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2516,7 +5032,7 @@
 	)
 	(text "PSP button connectors"
 		(exclude_from_sim no)
-		(at 78.486 28.194 0)
+		(at 81.788 22.352 0)
 		(effects
 			(font
 				(size 5.08 5.08)
@@ -2528,7 +5044,7 @@
 	)
 	(text "1: 5v\n2: charge_led\n3: pwr_led\n4: hold_key"
 		(exclude_from_sim no)
-		(at 33.528 106.426 0)
+		(at 37.338 136.906 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2536,6 +5052,16 @@
 			(justify left)
 		)
 		(uuid "406fb581-3209-436f-a1d9-2e1b9f465c26")
+	)
+	(text "right"
+		(exclude_from_sim no)
+		(at 62.738 128.778 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "738ab893-f7cc-4728-8211-b21e15eae342")
 	)
 	(text "analog"
 		(exclude_from_sim no)
@@ -2572,7 +5098,7 @@
 	)
 	(text "left"
 		(exclude_from_sim no)
-		(at 74.168 33.528 0)
+		(at 64.008 38.862 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2582,7 +5108,7 @@
 	)
 	(text "center"
 		(exclude_from_sim no)
-		(at 145.034 75.692 0)
+		(at 61.214 82.042 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2591,7 +5117,7 @@
 		(uuid "eb7c1ca0-6ff4-454c-a60d-4c8c39576531")
 	)
 	(label "Analog_x"
-		(at 204.47 101.6 0)
+		(at 195.58 101.6 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2602,18 +5128,18 @@
 		(uuid "17fef1bf-bb49-4be8-926b-09bb0f5d2c0f")
 	)
 	(label "PSP_x"
-		(at 232.41 48.26 0)
+		(at 224.79 48.26 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "25746c6b-43de-4c7f-8b30-75e87d9b8c2c")
 	)
 	(label "PSP_y"
-		(at 179.07 48.26 0)
+		(at 187.96 48.26 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2624,7 +5150,7 @@
 		(uuid "285d84b0-b0a1-42e6-8e73-8c94fd2e0811")
 	)
 	(label "+V"
-		(at 204.47 104.14 0)
+		(at 195.58 104.14 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2635,7 +5161,7 @@
 		(uuid "2d7a28b7-90ca-403f-a0a4-cca6acfa4763")
 	)
 	(label "PSP_y"
-		(at 204.47 83.82 0)
+		(at 201.93 83.82 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2657,7 +5183,7 @@
 		(uuid "4a9475ea-6f6d-4bd2-ac97-e92cd42521bc")
 	)
 	(label "PSP_x"
-		(at 204.47 86.36 0)
+		(at 201.93 86.36 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2668,29 +5194,7 @@
 		(uuid "581306e8-f476-4e9f-adae-7ea0b0ea15c8")
 	)
 	(label "+V"
-		(at 255.27 57.15 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "5c787d1d-01a1-4abd-addb-9acd36de685a")
-	)
-	(label "PSP_y"
-		(at 255.27 59.69 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "6821e7b5-908a-45a2-9106-63a60702e336")
-	)
-	(label "+V"
-		(at 218.44 50.8 0)
+		(at 255.27 57.15 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2698,10 +5202,21 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "79f1ded9-e547-464e-8214-4fd51369e59d")
+		(uuid "5c787d1d-01a1-4abd-addb-9acd36de685a")
 	)
-	(label "PSP_x"
-		(at 255.27 54.61 180)
+	(label "PSP_y"
+		(at 255.27 59.69 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6821e7b5-908a-45a2-9106-63a60702e336")
+	)
+	(label "+V"
+		(at 224.79 50.8 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2709,10 +5224,21 @@
 			)
 			(justify right bottom)
 		)
+		(uuid "79f1ded9-e547-464e-8214-4fd51369e59d")
+	)
+	(label "PSP_x"
+		(at 255.27 54.61 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
 		(uuid "9eb4ed8e-cb85-4590-8a8f-2d122c6e50cf")
 	)
 	(label "Annalog_y"
-		(at 204.47 106.68 0)
+		(at 195.58 106.68 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2724,7 +5250,7 @@
 	)
 	(global_label "down"
 		(shape input)
-		(at 21.59 55.88 180)
+		(at 31.75 58.42 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2734,7 +5260,7 @@
 		)
 		(uuid "088a0d4e-b2eb-451b-8995-83fe1dbdcd07")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 13.8273 55.88 0)
+			(at 23.9873 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2746,7 +5272,7 @@
 	)
 	(global_label "triangle"
 		(shape input)
-		(at 22.86 140.97 180)
+		(at 35.56 171.45 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2756,7 +5282,7 @@
 		)
 		(uuid "0b1bd5c7-95fa-4f0e-b556-703975a3b82b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 12.5573 140.97 0)
+			(at 25.2573 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2768,7 +5294,7 @@
 	)
 	(global_label "ESP_SPI_MOSI"
 		(shape input)
-		(at 186.69 40.64 180)
+		(at 191.77 40.64 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2778,7 +5304,7 @@
 		)
 		(uuid "0c140ac1-78dc-4b09-8aa8-a50ab512f579")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 170.4606 40.64 0)
+			(at 175.5406 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2790,7 +5316,7 @@
 	)
 	(global_label "power"
 		(shape input)
-		(at 22.86 123.19 180)
+		(at 35.56 153.67 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2800,7 +5326,7 @@
 		)
 		(uuid "1ca17e1a-dcbd-489e-ae32-9d5e383e643c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 14.3715 123.19 0)
+			(at 27.0715 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2812,7 +5338,7 @@
 	)
 	(global_label "up"
 		(shape input)
-		(at 21.59 50.8 180)
+		(at 31.75 53.34 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2822,7 +5348,7 @@
 		)
 		(uuid "249ff0d4-d33f-4255-aa3f-9f35a76a7767")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 16.3068 50.8 0)
+			(at 26.4668 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2834,7 +5360,7 @@
 	)
 	(global_label "voldown"
 		(shape input)
-		(at 96.52 107.95 180)
+		(at 33.02 114.3 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2844,7 +5370,7 @@
 		)
 		(uuid "2fd0f62f-ae5f-4f23-8fc4-c575ce98dadf")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 85.9755 107.95 0)
+			(at 22.4755 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2856,7 +5382,7 @@
 	)
 	(global_label "L1"
 		(shape input)
-		(at 21.59 45.72 180)
+		(at 31.75 48.26 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2866,7 +5392,7 @@
 		)
 		(uuid "30376bf5-4854-48a6-ac19-3dbe152d921f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 16.3672 45.72 0)
+			(at 26.5272 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2878,7 +5404,7 @@
 	)
 	(global_label "circle"
 		(shape input)
-		(at 22.86 138.43 180)
+		(at 35.56 168.91 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2888,7 +5414,7 @@
 		)
 		(uuid "30805733-70de-4cdb-b2f3-b1c9250d9c0d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 14.5528 138.43 0)
+			(at 27.2528 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2900,7 +5426,7 @@
 	)
 	(global_label "sound"
 		(shape input)
-		(at 96.52 92.71 180)
+		(at 33.02 99.06 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2910,7 +5436,7 @@
 		)
 		(uuid "521756a2-dcf9-4c57-a9f6-f8c28caa67b7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 87.9107 92.71 0)
+			(at 24.4107 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2922,7 +5448,7 @@
 	)
 	(global_label "cross"
 		(shape input)
-		(at 22.86 135.89 180)
+		(at 35.56 166.37 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2932,7 +5458,7 @@
 		)
 		(uuid "56cb2e34-ac31-4bda-8de7-22f3756a812a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 14.7948 135.89 0)
+			(at 27.4948 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2966,7 +5492,7 @@
 	)
 	(global_label "r1"
 		(shape input)
-		(at 22.86 143.51 180)
+		(at 35.56 173.99 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2976,7 +5502,7 @@
 		)
 		(uuid "6885d326-117f-4d04-ba18-af6c5dc2edf4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 17.8791 143.51 0)
+			(at 30.5791 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2988,7 +5514,7 @@
 	)
 	(global_label "left"
 		(shape input)
-		(at 21.59 53.34 180)
+		(at 31.75 55.88 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2998,7 +5524,7 @@
 		)
 		(uuid "85aeb33e-613f-4de7-9a6a-598737b18504")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 15.3996 53.34 0)
+			(at 25.5596 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3010,7 +5536,7 @@
 	)
 	(global_label "ESP_SPI_CS"
 		(shape input)
-		(at 186.69 35.56 180)
+		(at 191.77 35.56 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3020,7 +5546,7 @@
 		)
 		(uuid "87c88360-0ab1-4846-ac9f-ece129a58bf6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 172.5773 35.56 0)
+			(at 177.6573 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3032,7 +5558,7 @@
 	)
 	(global_label "volup"
 		(shape input)
-		(at 96.52 105.41 180)
+		(at 33.02 111.76 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3042,7 +5568,7 @@
 		)
 		(uuid "89aac149-7d1c-4ed4-9a68-d14f6b52c362")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 88.455 105.41 0)
+			(at 24.955 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3054,7 +5580,7 @@
 	)
 	(global_label "ESP_SPI_SCLK"
 		(shape input)
-		(at 186.69 38.1 180)
+		(at 191.77 38.1 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3064,7 +5590,7 @@
 		)
 		(uuid "8f5da011-21a5-40b3-863e-2a2fc2a6ee04")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 170.2792 38.1 0)
+			(at 175.3592 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3076,7 +5602,7 @@
 	)
 	(global_label "PSP_SELECT"
 		(shape input)
-		(at 97.79 90.17 180)
+		(at 33.02 96.52 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3086,7 +5612,7 @@
 		)
 		(uuid "9bf48e84-75d2-4144-8c09-806de3740359")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 83.3145 90.17 0)
+			(at 18.5445 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3098,7 +5624,7 @@
 	)
 	(global_label "square"
 		(shape input)
-		(at 22.86 146.05 180)
+		(at 35.56 176.53 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3108,7 +5634,7 @@
 		)
 		(uuid "9de60f48-8dd8-4cc9-93e2-326208b0f039")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 13.5249 146.05 0)
+			(at 26.2249 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3120,7 +5646,7 @@
 	)
 	(global_label "right"
 		(shape input)
-		(at 21.59 48.26 180)
+		(at 31.75 50.8 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3130,7 +5656,7 @@
 		)
 		(uuid "b15f46a6-a26b-4e6a-afee-98b9f3a5b206")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 14.1901 48.26 0)
+			(at 24.3501 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3142,7 +5668,7 @@
 	)
 	(global_label "home"
 		(shape input)
-		(at 96.52 110.49 180)
+		(at 33.02 116.84 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3152,7 +5678,7 @@
 		)
 		(uuid "c9f279e3-0192-4c1f-ba43-4c336bc3133a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 88.4549 110.49 0)
+			(at 24.9549 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3164,7 +5690,7 @@
 	)
 	(global_label "display"
 		(shape input)
-		(at 96.52 95.25 180)
+		(at 33.02 101.6 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3174,7 +5700,7 @@
 		)
 		(uuid "dc104138-3136-444f-9c0a-cfa7337663b2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 86.8221 95.25 0)
+			(at 23.3221 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3186,7 +5712,7 @@
 	)
 	(global_label "PSP_START"
 		(shape input)
-		(at 101.6 85.09 180)
+		(at 33.02 93.98 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3196,7 +5722,7 @@
 		)
 		(uuid "ef090063-b339-4316-8f52-5d2a37aae38a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 88.3944 85.09 0)
+			(at 19.8144 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3208,7 +5734,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 148.59 82.55 90)
+		(at 64.77 88.9 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3217,7 +5743,7 @@
 		(fields_autoplaced yes)
 		(uuid "02a837af-1d15-4c86-bcab-aa8bf630ab99")
 		(property "Reference" "#PWR039"
-			(at 154.94 82.55 0)
+			(at 71.12 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3226,7 +5752,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 152.4 82.5499 90)
+			(at 68.58 88.8999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3235,7 +5761,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 148.59 82.55 0)
+			(at 64.77 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3244,7 +5770,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 148.59 82.55 0)
+			(at 64.77 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3253,7 +5779,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 148.59 82.55 0)
+			(at 64.77 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3275,7 +5801,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 215.9 72.39 0)
+		(at 214.63 81.28 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3283,7 +5809,7 @@
 		(dnp no)
 		(uuid "0d6973af-69dd-47f0-9bb0-dcf25a9b9da8")
 		(property "Reference" "TP1"
-			(at 220.98 69.596 0)
+			(at 212.852 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3292,16 +5818,17 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 221.488 72.39 0)
+			(at 220.218 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 220.98 72.39 0)
+			(at 219.71 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3310,7 +5837,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 220.98 72.39 0)
+			(at 219.71 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3319,7 +5846,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 215.9 72.39 0)
+			(at 214.63 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3341,7 +5868,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 207.01 101.6 0)
+		(at 205.74 97.79 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3349,7 +5876,7 @@
 		(dnp no)
 		(uuid "0dfbb7b2-470c-401a-8075-f46be63a0b8d")
 		(property "Reference" "TP7"
-			(at 212.09 98.806 0)
+			(at 203.962 92.456 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3358,16 +5885,17 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 212.598 101.6 0)
+			(at 211.328 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 212.09 101.6 0)
+			(at 210.82 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3376,7 +5904,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 212.09 101.6 0)
+			(at 210.82 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3385,7 +5913,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 207.01 101.6 0)
+			(at 205.74 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3407,7 +5935,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 59.69 107.95 180)
+		(at 63.5 138.43 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3416,7 +5944,7 @@
 		(fields_autoplaced yes)
 		(uuid "1ac9b547-0a71-4f72-93d7-62040b089670")
 		(property "Reference" "#PWR068"
-			(at 59.69 101.6 0)
+			(at 69.85 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3425,15 +5953,16 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 59.69 102.87 0)
+			(at 67.31 138.4299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" ""
-			(at 59.69 107.95 0)
+			(at 63.5 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3442,7 +5971,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 59.69 107.95 0)
+			(at 63.5 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3451,7 +5980,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 59.69 107.95 0)
+			(at 63.5 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3473,7 +6002,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 77.47 73.66 90)
+		(at 64.77 76.2 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3482,7 +6011,7 @@
 		(fields_autoplaced yes)
 		(uuid "1b1b2c74-b95d-4eb2-8026-6a4344164dc1")
 		(property "Reference" "#PWR047"
-			(at 83.82 73.66 0)
+			(at 71.12 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3491,7 +6020,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 81.28 73.6599 90)
+			(at 68.58 76.1999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3500,7 +6029,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 77.47 73.66 0)
+			(at 64.77 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3509,7 +6038,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 77.47 73.66 0)
+			(at 64.77 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3518,7 +6047,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 77.47 73.66 0)
+			(at 64.77 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3539,17 +6068,17 @@
 		)
 	)
 	(symbol
+		(lib_name "1N5819WS_2")
 		(lib_id "JLCPCB_schematic:1N5819WS")
-		(at 36.83 53.34 0)
+		(at 48.26 55.88 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "216119b7-0cdc-42ab-bf58-8ab9ca058869")
 		(property "Reference" "D5"
-			(at 36.576 46.99 0)
+			(at 44.704 54.864 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3557,15 +6086,16 @@
 			)
 		)
 		(property "Value" "1N5819WS"
-			(at 36.576 49.53 0)
+			(at 48.006 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "JLCPCB_footprint:SOD-323_L1.8-W1.3-LS2.5-RD"
-			(at 36.83 63.5 0)
+			(at 48.26 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3575,7 +6105,7 @@
 			)
 		)
 		(property "Datasheet" "https://item.szlcsc.com/295156.html"
-			(at 34.544 53.213 0)
+			(at 45.974 55.753 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3585,7 +6115,7 @@
 			)
 		)
 		(property "Description" "shotkey diode"
-			(at 36.83 53.34 0)
+			(at 48.26 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3594,7 +6124,7 @@
 			)
 		)
 		(property "LCSC" "C191023"
-			(at 36.83 53.34 0)
+			(at 48.26 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3619,7 +6149,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 59.69 151.13 0)
+		(at 63.5 181.61 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3628,7 +6158,7 @@
 		(fields_autoplaced yes)
 		(uuid "2356650f-6b40-4f36-8a39-ed59305d4d32")
 		(property "Reference" "#PWR069"
-			(at 59.69 157.48 0)
+			(at 69.85 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3637,15 +6167,16 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 59.69 156.21 0)
+			(at 67.31 181.6099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" ""
-			(at 59.69 151.13 0)
+			(at 63.5 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3654,7 +6185,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 59.69 151.13 0)
+			(at 63.5 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3663,7 +6194,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 59.69 151.13 0)
+			(at 63.5 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3684,18 +6215,18 @@
 		)
 	)
 	(symbol
+		(lib_name "1N5819WS_14")
 		(lib_id "JLCPCB_schematic:1N5819WS")
-		(at 38.1 146.05 0)
+		(at 46.99 176.53 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "2ba5361e-410e-406b-bf68-6e86656422fc")
 		(property "Reference" "D7"
-			(at 37.846 152.4 0)
+			(at 43.942 175.514 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3703,15 +6234,16 @@
 			)
 		)
 		(property "Value" "1N5819WS"
-			(at 37.846 149.86 0)
+			(at 46.736 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "JLCPCB_footprint:SOD-323_L1.8-W1.3-LS2.5-RD"
-			(at 38.1 135.89 0)
+			(at 46.99 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3721,7 +6253,7 @@
 			)
 		)
 		(property "Datasheet" "https://item.szlcsc.com/295156.html"
-			(at 35.814 146.177 0)
+			(at 44.704 176.657 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3731,7 +6263,7 @@
 			)
 		)
 		(property "Description" "shotkey diode"
-			(at 38.1 146.05 0)
+			(at 46.99 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3740,7 +6272,7 @@
 			)
 		)
 		(property "LCSC" "C191023"
-			(at 38.1 146.05 0)
+			(at 46.99 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3765,16 +6297,16 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 212.09 97.79 270)
+		(at 274.32 50.8 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "31199c40-26ea-4962-9d9c-04aa7f13060b")
-		(property "Reference" "#PWR040"
-			(at 205.74 97.79 0)
+		(uuid "2bfb3b87-f4e8-43ba-9f3f-5052f1fc3b1c")
+		(property "Reference" "#PWR053"
+			(at 280.67 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3783,7 +6315,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 208.28 97.7899 90)
+			(at 278.13 50.7999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3792,7 +6324,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 212.09 97.79 0)
+			(at 274.32 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3801,7 +6333,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 212.09 97.79 0)
+			(at 274.32 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3810,7 +6342,141 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 212.09 97.79 0)
+			(at 274.32 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5ed59d6c-ff22-45a8-adac-f9d9aa17e3b0")
+		)
+		(instances
+			(project "esp32-c"
+				(path "/3a9f3299-35f4-4d62-9438-2986d1fa401f/e4f76cb1-7d48-40aa-a3b2-74b8410dfe76"
+					(reference "#PWR053")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 274.32 60.96 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2c0a187a-6387-4efe-9233-00779fd73d8e")
+		(property "Reference" "#PWR026"
+			(at 280.67 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 278.13 60.9599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 274.32 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 274.32 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 274.32 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d6e58c86-7696-494f-8f6c-5f90c984efa5")
+		)
+		(instances
+			(project "esp32-c"
+				(path "/3a9f3299-35f4-4d62-9438-2986d1fa401f/e4f76cb1-7d48-40aa-a3b2-74b8410dfe76"
+					(reference "#PWR026")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 215.9 110.49 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "31199c40-26ea-4962-9d9c-04aa7f13060b")
+		(property "Reference" "#PWR040"
+			(at 215.9 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 218.44 111.7599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 215.9 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 215.9 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 215.9 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3832,7 +6498,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 213.36 111.76 180)
+		(at 213.36 97.79 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3840,7 +6506,7 @@
 		(dnp no)
 		(uuid "39d33e4b-bfa1-4793-8da8-f042bc95b07f")
 		(property "Reference" "TP3"
-			(at 208.28 114.554 0)
+			(at 211.582 92.456 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3849,16 +6515,17 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 207.772 111.76 0)
+			(at 203.962 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 208.28 111.76 0)
+			(at 218.44 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3867,7 +6534,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 208.28 111.76 0)
+			(at 218.44 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3876,7 +6543,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 213.36 111.76 0)
+			(at 213.36 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3897,18 +6564,18 @@
 		)
 	)
 	(symbol
+		(lib_name "1N5819WS_13")
 		(lib_id "JLCPCB_schematic:1N5819WS")
-		(at 38.1 138.43 0)
+		(at 46.99 168.91 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "3ed7d5f1-5077-44c1-9b9b-164977dea1dc")
 		(property "Reference" "D10"
-			(at 37.846 144.78 0)
+			(at 43.18 167.894 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3916,15 +6583,16 @@
 			)
 		)
 		(property "Value" "1N5819WS"
-			(at 37.846 142.24 0)
+			(at 46.736 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "JLCPCB_footprint:SOD-323_L1.8-W1.3-LS2.5-RD"
-			(at 38.1 128.27 0)
+			(at 46.99 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3934,7 +6602,7 @@
 			)
 		)
 		(property "Datasheet" "https://item.szlcsc.com/295156.html"
-			(at 35.814 138.557 0)
+			(at 44.704 169.037 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3944,7 +6612,7 @@
 			)
 		)
 		(property "Description" "shotkey diode"
-			(at 38.1 138.43 0)
+			(at 46.99 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3953,7 +6621,7 @@
 			)
 		)
 		(property "LCSC" "C191023"
-			(at 38.1 138.43 0)
+			(at 46.99 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3978,7 +6646,7 @@
 	)
 	(symbol
 		(lib_id "JLCPCB_schematic:HC-FPC-05-09-10RLTAG")
-		(at 73.66 57.15 0)
+		(at 60.96 59.69 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3987,7 +6655,7 @@
 		(fields_autoplaced yes)
 		(uuid "4aae276e-d322-49aa-b820-16542e08e2df")
 		(property "Reference" "U6"
-			(at 80.01 55.8799 0)
+			(at 67.31 58.4199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3996,7 +6664,7 @@
 			)
 		)
 		(property "Value" "HC-FPC-05-09-10RLTAG"
-			(at 80.01 58.4199 0)
+			(at 67.31 60.9599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4005,7 +6673,7 @@
 			)
 		)
 		(property "Footprint" "JLCPCB_footprint:FPC-SMD_10P-P0.50_HC-FPC-05-09-10RLTAG"
-			(at 73.66 67.31 0)
+			(at 60.96 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4015,7 +6683,7 @@
 			)
 		)
 		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20221026/52A26161A88FCE07A06989F8D4399614.pdf"
-			(at 71.374 57.023 0)
+			(at 58.674 59.563 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4025,7 +6693,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 73.66 57.15 0)
+			(at 60.96 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4034,7 +6702,7 @@
 			)
 		)
 		(property "LCSC" "C5213750"
-			(at 73.66 57.15 0)
+			(at 60.96 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4089,7 +6757,7 @@
 	)
 	(symbol
 		(lib_id "JLCPCB_schematic:HC-FPC-05-09-10RLTAG")
-		(at 144.78 99.06 0)
+		(at 60.96 105.41 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4098,7 +6766,7 @@
 		(fields_autoplaced yes)
 		(uuid "4ad66ee6-09db-41cb-acfd-65205bca008f")
 		(property "Reference" "U10"
-			(at 151.13 97.7899 0)
+			(at 67.31 104.1399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4107,7 +6775,7 @@
 			)
 		)
 		(property "Value" "HC-FPC-05-09-10RLTAG"
-			(at 151.13 100.3299 0)
+			(at 67.31 106.6799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4116,7 +6784,7 @@
 			)
 		)
 		(property "Footprint" "JLCPCB_footprint:FPC-SMD_10P-P0.50_HC-FPC-05-09-10RLTAG"
-			(at 144.78 109.22 0)
+			(at 60.96 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4126,7 +6794,7 @@
 			)
 		)
 		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20221026/52A26161A88FCE07A06989F8D4399614.pdf"
-			(at 142.494 98.933 0)
+			(at 58.674 105.283 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4136,7 +6804,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 144.78 99.06 0)
+			(at 60.96 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4145,7 +6813,7 @@
 			)
 		)
 		(property "LCSC" "C5213750"
-			(at 144.78 99.06 0)
+			(at 60.96 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4266,18 +6934,18 @@
 		)
 	)
 	(symbol
+		(lib_name "1N5819WS_6")
 		(lib_id "JLCPCB_schematic:1N5819WS")
-		(at 115.57 87.63 0)
+		(at 48.26 93.98 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "566abade-aca3-4dc3-bb41-3a3d6799bd81")
 		(property "Reference" "D1"
-			(at 115.316 93.98 0)
+			(at 44.704 92.964 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4285,15 +6953,16 @@
 			)
 		)
 		(property "Value" "1N5819WS"
-			(at 115.316 91.44 0)
+			(at 48.006 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "JLCPCB_footprint:SOD-323_L1.8-W1.3-LS2.5-RD"
-			(at 115.57 77.47 0)
+			(at 48.26 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4303,7 +6972,7 @@
 			)
 		)
 		(property "Datasheet" "https://item.szlcsc.com/295156.html"
-			(at 113.284 87.757 0)
+			(at 45.974 94.107 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4313,7 +6982,7 @@
 			)
 		)
 		(property "Description" "shotkey diode"
-			(at 115.57 87.63 0)
+			(at 48.26 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4322,7 +6991,7 @@
 			)
 		)
 		(property "LCSC" "C191023"
-			(at 115.57 87.63 0)
+			(at 48.26 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4346,17 +7015,17 @@
 		)
 	)
 	(symbol
+		(lib_name "1N5819WS_3")
 		(lib_id "JLCPCB_schematic:1N5819WS")
-		(at 36.83 45.72 0)
+		(at 48.26 48.26 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "5d12d8dc-c3a5-46f9-85ba-ec6e89bd84fa")
 		(property "Reference" "D24"
-			(at 36.576 39.37 0)
+			(at 44.45 47.244 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4364,15 +7033,16 @@
 			)
 		)
 		(property "Value" "1N5819WS"
-			(at 36.576 41.91 0)
+			(at 48.006 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "JLCPCB_footprint:SOD-323_L1.8-W1.3-LS2.5-RD"
-			(at 36.83 55.88 0)
+			(at 48.26 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4382,7 +7052,7 @@
 			)
 		)
 		(property "Datasheet" "https://item.szlcsc.com/295156.html"
-			(at 34.544 45.593 0)
+			(at 45.974 48.133 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4392,7 +7062,7 @@
 			)
 		)
 		(property "Description" "shotkey diode"
-			(at 36.83 45.72 0)
+			(at 48.26 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4401,7 +7071,7 @@
 			)
 		)
 		(property "LCSC" "C191023"
-			(at 36.83 45.72 0)
+			(at 48.26 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4426,7 +7096,7 @@
 	)
 	(symbol
 		(lib_id "JLCPCB_schematic:AFC42-S14FMA-1H")
-		(at 59.69 129.54 0)
+		(at 63.5 160.02 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4435,7 +7105,7 @@
 		(fields_autoplaced yes)
 		(uuid "63fa22f5-bfac-489d-8a33-fe5045f14f98")
 		(property "Reference" "U13"
-			(at 63.5 128.2699 0)
+			(at 67.31 158.7499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4444,7 +7114,7 @@
 			)
 		)
 		(property "Value" "AFC42-S14FMA-1H"
-			(at 63.5 130.8099 0)
+			(at 67.31 161.2899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4453,7 +7123,7 @@
 			)
 		)
 		(property "Footprint" "JLCPCB_footprint:CONN-SMD_14P-P0.50_L3.1-W9.0"
-			(at 59.69 139.7 0)
+			(at 63.5 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4463,7 +7133,7 @@
 			)
 		)
 		(property "Datasheet" "https://item.szlcsc.com/472046.html?ref=editor&logined=true"
-			(at 57.404 129.413 0)
+			(at 61.214 159.893 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4473,7 +7143,7 @@
 			)
 		)
 		(property "Description" "14pin 0.5mm pitch 1mm height top/bottom contacts"
-			(at 59.69 129.54 0)
+			(at 63.5 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4482,7 +7152,7 @@
 			)
 		)
 		(property "LCSC" "C466533"
-			(at 59.69 129.54 0)
+			(at 63.5 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4549,7 +7219,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 217.17 45.72 90)
+		(at 218.44 54.61 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4558,7 +7228,7 @@
 		(fields_autoplaced yes)
 		(uuid "799af463-4ea0-4561-9c2b-e4e1b0efeaf8")
 		(property "Reference" "#PWR027"
-			(at 223.52 45.72 0)
+			(at 218.44 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4567,16 +7237,16 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 220.98 45.7199 90)
+			(at 220.98 55.8799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 217.17 45.72 0)
+			(at 218.44 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4585,7 +7255,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 217.17 45.72 0)
+			(at 218.44 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4594,7 +7264,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 217.17 45.72 0)
+			(at 218.44 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4615,17 +7285,17 @@
 		)
 	)
 	(symbol
+		(lib_name "1N5819WS_5")
 		(lib_id "JLCPCB_schematic:1N5819WS")
-		(at 36.83 50.8 0)
+		(at 40.64 53.34 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "80a917b8-b092-4741-b8aa-95f631ca6cda")
 		(property "Reference" "D4"
-			(at 36.576 44.45 0)
+			(at 37.084 52.324 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4633,15 +7303,16 @@
 			)
 		)
 		(property "Value" "1N5819WS"
-			(at 36.576 46.99 0)
+			(at 40.386 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "JLCPCB_footprint:SOD-323_L1.8-W1.3-LS2.5-RD"
-			(at 36.83 60.96 0)
+			(at 40.64 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4651,7 +7322,7 @@
 			)
 		)
 		(property "Datasheet" "https://item.szlcsc.com/295156.html"
-			(at 34.544 50.673 0)
+			(at 38.354 53.213 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4661,7 +7332,7 @@
 			)
 		)
 		(property "Description" "shotkey diode"
-			(at 36.83 50.8 0)
+			(at 40.64 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4670,7 +7341,7 @@
 			)
 		)
 		(property "LCSC" "C191023"
-			(at 36.83 50.8 0)
+			(at 40.64 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4694,18 +7365,18 @@
 		)
 	)
 	(symbol
+		(lib_name "1N5819WS_17")
 		(lib_id "JLCPCB_schematic:1N5819WS")
-		(at 38.1 140.97 0)
+		(at 43.18 171.45 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "8571ca4c-dad0-4684-a6b6-ecca101bedce")
 		(property "Reference" "D9"
-			(at 37.846 147.32 0)
+			(at 39.878 170.434 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4713,15 +7384,16 @@
 			)
 		)
 		(property "Value" "1N5819WS"
-			(at 37.846 144.78 0)
+			(at 42.926 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "JLCPCB_footprint:SOD-323_L1.8-W1.3-LS2.5-RD"
-			(at 38.1 130.81 0)
+			(at 43.18 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4731,7 +7403,7 @@
 			)
 		)
 		(property "Datasheet" "https://item.szlcsc.com/295156.html"
-			(at 35.814 141.097 0)
+			(at 40.894 171.577 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4741,7 +7413,7 @@
 			)
 		)
 		(property "Description" "shotkey diode"
-			(at 38.1 140.97 0)
+			(at 43.18 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4750,7 +7422,7 @@
 			)
 		)
 		(property "LCSC" "C191023"
-			(at 38.1 140.97 0)
+			(at 43.18 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4955,18 +7627,18 @@
 		)
 	)
 	(symbol
+		(lib_name "1N5819WS_7")
 		(lib_id "JLCPCB_schematic:1N5819WS")
-		(at 115.57 90.17 0)
+		(at 44.45 96.52 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "95218fd8-2f68-46b6-90dc-3163c3cebed4")
 		(property "Reference" "D20"
-			(at 115.316 96.52 0)
+			(at 40.894 95.504 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4974,15 +7646,16 @@
 			)
 		)
 		(property "Value" "1N5819WS"
-			(at 115.316 93.98 0)
+			(at 44.196 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "JLCPCB_footprint:SOD-323_L1.8-W1.3-LS2.5-RD"
-			(at 115.57 80.01 0)
+			(at 44.45 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4992,7 +7665,7 @@
 			)
 		)
 		(property "Datasheet" "https://item.szlcsc.com/295156.html"
-			(at 113.284 90.297 0)
+			(at 42.164 96.647 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5002,7 +7675,7 @@
 			)
 		)
 		(property "Description" "shotkey diode"
-			(at 115.57 90.17 0)
+			(at 44.45 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5011,7 +7684,7 @@
 			)
 		)
 		(property "LCSC" "C191023"
-			(at 115.57 90.17 0)
+			(at 44.45 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5036,7 +7709,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 209.55 106.68 180)
+		(at 209.55 97.79 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5044,7 +7717,7 @@
 		(dnp no)
 		(uuid "9a1fe0d6-b7c5-45b8-b5b4-8a18f6e45cff")
 		(property "Reference" "TP8"
-			(at 204.47 109.474 0)
+			(at 207.772 92.456 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5053,16 +7726,17 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 203.962 106.68 0)
+			(at 207.01 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 204.47 106.68 0)
+			(at 214.63 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5071,7 +7745,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 204.47 106.68 0)
+			(at 214.63 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5080,7 +7754,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 209.55 106.68 0)
+			(at 209.55 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5101,17 +7775,17 @@
 		)
 	)
 	(symbol
+		(lib_name "1N5819WS_4")
 		(lib_id "JLCPCB_schematic:1N5819WS")
-		(at 36.83 48.26 0)
+		(at 44.45 50.8 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "9adc3d01-25b8-4032-9bdf-31924beb45cc")
 		(property "Reference" "D3"
-			(at 36.576 41.91 0)
+			(at 40.894 49.784 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5119,15 +7793,16 @@
 			)
 		)
 		(property "Value" "1N5819WS"
-			(at 36.576 44.45 0)
+			(at 44.196 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "JLCPCB_footprint:SOD-323_L1.8-W1.3-LS2.5-RD"
-			(at 36.83 58.42 0)
+			(at 44.45 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5137,7 +7812,7 @@
 			)
 		)
 		(property "Datasheet" "https://item.szlcsc.com/295156.html"
-			(at 34.544 48.133 0)
+			(at 42.164 50.673 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5147,7 +7822,7 @@
 			)
 		)
 		(property "Description" "shotkey diode"
-			(at 36.83 48.26 0)
+			(at 44.45 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5156,7 +7831,7 @@
 			)
 		)
 		(property "LCSC" "C191023"
-			(at 36.83 48.26 0)
+			(at 44.45 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5272,7 +7947,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 77.47 40.64 90)
+		(at 64.77 43.18 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5281,7 +7956,7 @@
 		(fields_autoplaced yes)
 		(uuid "a6b41a60-b989-4626-bb12-a7b932474840")
 		(property "Reference" "#PWR044"
-			(at 83.82 40.64 0)
+			(at 71.12 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5290,7 +7965,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 81.28 40.6399 90)
+			(at 68.58 43.1799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5299,7 +7974,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 77.47 40.64 0)
+			(at 64.77 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5308,7 +7983,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 77.47 40.64 0)
+			(at 64.77 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5317,7 +7992,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 77.47 40.64 0)
+			(at 64.77 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5405,18 +8080,18 @@
 		)
 	)
 	(symbol
+		(lib_name "1N5819WS_11")
 		(lib_id "JLCPCB_schematic:1N5819WS")
-		(at 115.57 110.49 0)
+		(at 40.64 116.84 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "bdd1804a-3417-4358-9ace-27f459c3965e")
 		(property "Reference" "D29"
-			(at 115.316 116.84 0)
+			(at 37.084 115.824 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5424,15 +8099,16 @@
 			)
 		)
 		(property "Value" "1N5819WS"
-			(at 115.316 114.3 0)
+			(at 40.386 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "JLCPCB_footprint:SOD-323_L1.8-W1.3-LS2.5-RD"
-			(at 115.57 100.33 0)
+			(at 40.64 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5442,7 +8118,7 @@
 			)
 		)
 		(property "Datasheet" "https://item.szlcsc.com/295156.html"
-			(at 113.284 110.617 0)
+			(at 38.354 116.967 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5452,7 +8128,7 @@
 			)
 		)
 		(property "Description" "shotkey diode"
-			(at 115.57 110.49 0)
+			(at 40.64 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5461,7 +8137,7 @@
 			)
 		)
 		(property "LCSC" "C191023"
-			(at 115.57 110.49 0)
+			(at 40.64 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5486,7 +8162,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 257.81 52.07 270)
+		(at 262.89 63.5 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5495,7 +8171,7 @@
 		(fields_autoplaced yes)
 		(uuid "c1e06beb-0c7a-492c-92ec-f199f8473984")
 		(property "Reference" "#PWR037"
-			(at 251.46 52.07 0)
+			(at 262.89 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5504,16 +8180,16 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 254 52.0699 90)
+			(at 265.43 64.7699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 257.81 52.07 0)
+			(at 262.89 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5522,7 +8198,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 257.81 52.07 0)
+			(at 262.89 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5531,7 +8207,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 257.81 52.07 0)
+			(at 262.89 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5552,18 +8228,18 @@
 		)
 	)
 	(symbol
+		(lib_name "1N5819WS_8")
 		(lib_id "JLCPCB_schematic:1N5819WS")
-		(at 115.57 95.25 0)
+		(at 48.26 101.6 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "c1e92f75-6bab-484f-96f7-5ca6c63ef30e")
 		(property "Reference" "D26"
-			(at 115.316 101.6 0)
+			(at 44.704 100.584 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5571,15 +8247,16 @@
 			)
 		)
 		(property "Value" "1N5819WS"
-			(at 115.316 99.06 0)
+			(at 48.006 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "JLCPCB_footprint:SOD-323_L1.8-W1.3-LS2.5-RD"
-			(at 115.57 85.09 0)
+			(at 48.26 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5589,7 +8266,7 @@
 			)
 		)
 		(property "Datasheet" "https://item.szlcsc.com/295156.html"
-			(at 113.284 95.377 0)
+			(at 45.974 101.727 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5599,7 +8276,7 @@
 			)
 		)
 		(property "Description" "shotkey diode"
-			(at 115.57 95.25 0)
+			(at 48.26 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5608,7 +8285,7 @@
 			)
 		)
 		(property "LCSC" "C191023"
-			(at 115.57 95.25 0)
+			(at 48.26 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5633,7 +8310,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 148.59 115.57 90)
+		(at 64.77 121.92 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5642,7 +8319,7 @@
 		(fields_autoplaced yes)
 		(uuid "c65cfdf6-0412-438b-9b68-cb62c6567ca2")
 		(property "Reference" "#PWR065"
-			(at 154.94 115.57 0)
+			(at 71.12 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5651,7 +8328,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 152.4 115.5699 90)
+			(at 68.58 121.9199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5660,7 +8337,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 148.59 115.57 0)
+			(at 64.77 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5669,7 +8346,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 148.59 115.57 0)
+			(at 64.77 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5678,7 +8355,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 148.59 115.57 0)
+			(at 64.77 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5700,7 +8377,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 196.85 43.18 270)
+		(at 195.58 54.61 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5709,7 +8386,7 @@
 		(fields_autoplaced yes)
 		(uuid "d11aa8ee-f93d-4058-ab6b-b74123ef117f")
 		(property "Reference" "#PWR025"
-			(at 190.5 43.18 0)
+			(at 195.58 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5718,16 +8395,16 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 193.04 43.1799 90)
+			(at 198.12 55.8799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 196.85 43.18 0)
+			(at 195.58 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5736,7 +8413,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 196.85 43.18 0)
+			(at 195.58 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5745,7 +8422,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 196.85 43.18 0)
+			(at 195.58 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5877,17 +8554,17 @@
 		)
 	)
 	(symbol
+		(lib_name "1N5819WS_1")
 		(lib_id "JLCPCB_schematic:1N5819WS")
-		(at 36.83 55.88 0)
+		(at 44.45 58.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "e35da5ca-4778-4d17-9606-faa39f3df4a4")
 		(property "Reference" "D6"
-			(at 36.576 49.53 0)
+			(at 40.894 57.404 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5895,15 +8572,16 @@
 			)
 		)
 		(property "Value" "1N5819WS"
-			(at 36.576 52.07 0)
+			(at 44.196 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "JLCPCB_footprint:SOD-323_L1.8-W1.3-LS2.5-RD"
-			(at 36.83 66.04 0)
+			(at 44.45 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5913,7 +8591,7 @@
 			)
 		)
 		(property "Datasheet" "https://item.szlcsc.com/295156.html"
-			(at 34.544 55.753 0)
+			(at 42.164 58.293 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5923,7 +8601,7 @@
 			)
 		)
 		(property "Description" "shotkey diode"
-			(at 36.83 55.88 0)
+			(at 44.45 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5932,7 +8610,7 @@
 			)
 		)
 		(property "LCSC" "C191023"
-			(at 36.83 55.88 0)
+			(at 44.45 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5956,18 +8634,18 @@
 		)
 	)
 	(symbol
+		(lib_name "1N5819WS_15")
 		(lib_id "JLCPCB_schematic:1N5819WS")
-		(at 38.1 143.51 0)
+		(at 50.8 173.99 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "eb7dc20a-cec2-42b6-a002-9545a1a5afd9")
 		(property "Reference" "D8"
-			(at 37.846 149.86 0)
+			(at 47.498 172.974 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5975,15 +8653,16 @@
 			)
 		)
 		(property "Value" "1N5819WS"
-			(at 37.846 147.32 0)
+			(at 50.546 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "JLCPCB_footprint:SOD-323_L1.8-W1.3-LS2.5-RD"
-			(at 38.1 133.35 0)
+			(at 50.8 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5993,7 +8672,7 @@
 			)
 		)
 		(property "Datasheet" "https://item.szlcsc.com/295156.html"
-			(at 35.814 143.637 0)
+			(at 48.514 174.117 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6003,7 +8682,7 @@
 			)
 		)
 		(property "Description" "shotkey diode"
-			(at 38.1 143.51 0)
+			(at 50.8 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6012,7 +8691,7 @@
 			)
 		)
 		(property "LCSC" "C191023"
-			(at 38.1 143.51 0)
+			(at 50.8 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6036,18 +8715,18 @@
 		)
 	)
 	(symbol
+		(lib_name "1N5819WS_12")
 		(lib_id "JLCPCB_schematic:1N5819WS")
-		(at 115.57 107.95 0)
+		(at 44.45 114.3 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "ec2b5bee-e4bb-4e8b-85c8-877dd6645176")
 		(property "Reference" "D28"
-			(at 115.316 114.3 0)
+			(at 40.894 113.284 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6055,15 +8734,16 @@
 			)
 		)
 		(property "Value" "1N5819WS"
-			(at 115.316 111.76 0)
+			(at 44.196 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "JLCPCB_footprint:SOD-323_L1.8-W1.3-LS2.5-RD"
-			(at 115.57 97.79 0)
+			(at 44.45 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6073,7 +8753,7 @@
 			)
 		)
 		(property "Datasheet" "https://item.szlcsc.com/295156.html"
-			(at 113.284 108.077 0)
+			(at 42.164 114.427 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6083,7 +8763,7 @@
 			)
 		)
 		(property "Description" "shotkey diode"
-			(at 115.57 107.95 0)
+			(at 44.45 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6092,7 +8772,7 @@
 			)
 		)
 		(property "LCSC" "C191023"
-			(at 115.57 107.95 0)
+			(at 44.45 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6116,85 +8796,18 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 196.85 45.72 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f0443d71-1be7-4e09-83c6-df6b1fc40098")
-		(property "Reference" "#PWR026"
-			(at 190.5 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 193.04 45.7199 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 196.85 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 196.85 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 196.85 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "86adae2d-376a-41f7-89a4-366dc6e40fcf")
-		)
-		(instances
-			(project "esp32"
-				(path "/3a9f3299-35f4-4d62-9438-2986d1fa401f/e4f76cb1-7d48-40aa-a3b2-74b8410dfe76"
-					(reference "#PWR026")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
+		(lib_name "1N5819WS_9")
 		(lib_id "JLCPCB_schematic:1N5819WS")
-		(at 115.57 105.41 0)
+		(at 48.26 111.76 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f20bd5b0-b6f9-4d99-8893-5a8f6eb4b69e")
 		(property "Reference" "D27"
-			(at 115.316 111.76 0)
+			(at 44.704 110.744 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6202,15 +8815,16 @@
 			)
 		)
 		(property "Value" "1N5819WS"
-			(at 115.316 109.22 0)
+			(at 48.006 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "JLCPCB_footprint:SOD-323_L1.8-W1.3-LS2.5-RD"
-			(at 115.57 95.25 0)
+			(at 48.26 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6220,7 +8834,7 @@
 			)
 		)
 		(property "Datasheet" "https://item.szlcsc.com/295156.html"
-			(at 113.284 105.537 0)
+			(at 45.974 111.887 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6230,7 +8844,7 @@
 			)
 		)
 		(property "Description" "shotkey diode"
-			(at 115.57 105.41 0)
+			(at 48.26 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6239,7 +8853,7 @@
 			)
 		)
 		(property "LCSC" "C191023"
-			(at 115.57 105.41 0)
+			(at 48.26 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6263,8 +8877,9 @@
 		)
 	)
 	(symbol
+		(lib_name "1N5819WS_16")
 		(lib_id "JLCPCB_schematic:1N5819WS")
-		(at 39.37 123.19 0)
+		(at 50.8 153.67 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6273,7 +8888,7 @@
 		(dnp no)
 		(uuid "f54c05e8-58d9-4c31-a50f-9722c40cce1c")
 		(property "Reference" "D12"
-			(at 39.37 119.888 0)
+			(at 46.99 152.654 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6281,7 +8896,7 @@
 			)
 		)
 		(property "Value" "1N5819WS"
-			(at 39.116 127 0)
+			(at 50.546 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6290,7 +8905,7 @@
 			)
 		)
 		(property "Footprint" "JLCPCB_footprint:SOD-323_L1.8-W1.3-LS2.5-RD"
-			(at 39.37 113.03 0)
+			(at 50.8 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6300,7 +8915,7 @@
 			)
 		)
 		(property "Datasheet" "https://item.szlcsc.com/295156.html"
-			(at 37.084 123.317 0)
+			(at 48.514 153.797 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6310,7 +8925,7 @@
 			)
 		)
 		(property "Description" "shotkey diode"
-			(at 39.37 123.19 0)
+			(at 50.8 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6319,7 +8934,7 @@
 			)
 		)
 		(property "LCSC" "C191023"
-			(at 39.37 123.19 0)
+			(at 50.8 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6344,17 +8959,16 @@
 	)
 	(symbol
 		(lib_id "JLCPCB_schematic:1N5819WS")
-		(at 38.1 135.89 0)
+		(at 50.8 166.37 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f775ebe9-074e-401f-ab0e-159e24ef255a")
 		(property "Reference" "D11"
-			(at 37.846 142.24 0)
+			(at 47.498 165.354 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6362,15 +8976,16 @@
 			)
 		)
 		(property "Value" "1N5819WS"
-			(at 37.846 139.7 0)
+			(at 50.546 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "JLCPCB_footprint:SOD-323_L1.8-W1.3-LS2.5-RD"
-			(at 38.1 125.73 0)
+			(at 50.8 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6380,7 +8995,7 @@
 			)
 		)
 		(property "Datasheet" "https://item.szlcsc.com/295156.html"
-			(at 35.814 136.017 0)
+			(at 48.514 166.497 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6390,7 +9005,7 @@
 			)
 		)
 		(property "Description" "shotkey diode"
-			(at 38.1 135.89 0)
+			(at 50.8 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6399,7 +9014,7 @@
 			)
 		)
 		(property "LCSC" "C191023"
-			(at 38.1 135.89 0)
+			(at 50.8 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6423,18 +9038,18 @@
 		)
 	)
 	(symbol
+		(lib_name "1N5819WS_10")
 		(lib_id "JLCPCB_schematic:1N5819WS")
-		(at 115.57 92.71 0)
+		(at 40.64 99.06 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f9b3cdf7-1f97-4a22-b31a-907c8c662496")
 		(property "Reference" "D25"
-			(at 115.316 99.06 0)
+			(at 37.084 98.044 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6442,15 +9057,16 @@
 			)
 		)
 		(property "Value" "1N5819WS"
-			(at 115.316 96.52 0)
+			(at 40.386 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "JLCPCB_footprint:SOD-323_L1.8-W1.3-LS2.5-RD"
-			(at 115.57 82.55 0)
+			(at 40.64 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6460,7 +9076,7 @@
 			)
 		)
 		(property "Datasheet" "https://item.szlcsc.com/295156.html"
-			(at 113.284 92.837 0)
+			(at 38.354 99.187 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6470,7 +9086,7 @@
 			)
 		)
 		(property "Description" "shotkey diode"
-			(at 115.57 92.71 0)
+			(at 40.64 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6479,7 +9095,7 @@
 			)
 		)
 		(property "LCSC" "C191023"
-			(at 115.57 92.71 0)
+			(at 40.64 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6504,7 +9120,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 209.55 72.39 0)
+		(at 209.55 81.28 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6512,7 +9128,7 @@
 		(dnp no)
 		(uuid "ffd2f237-06c2-4615-a73e-6404259a95ba")
 		(property "Reference" "TP2"
-			(at 214.63 69.596 0)
+			(at 207.772 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6521,16 +9137,17 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 215.138 72.39 0)
+			(at 215.138 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 214.63 72.39 0)
+			(at 214.63 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6539,7 +9156,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 214.63 72.39 0)
+			(at 214.63 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6548,7 +9165,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 209.55 72.39 0)
+			(at 209.55 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
