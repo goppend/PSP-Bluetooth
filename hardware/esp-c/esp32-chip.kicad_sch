@@ -6498,7 +6498,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "0402WGF1002TCE"
+		(property "Value" "0805W8F1002T5E"
 			(at 22.86 50.546 0)
 			(effects
 				(font
@@ -6507,7 +6507,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "JLCPCB_footprint:R0402"
+		(property "Footprint" "JLCPCB_footprint:R0805"
 			(at 38.1 64.77 0)
 			(effects
 				(font
@@ -6517,7 +6517,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://item.szlcsc.com/323315.html"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/18102-0805W8F1002T5E/C17414"
 			(at 27.813 67.056 0)
 			(effects
 				(font
@@ -6536,7 +6536,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25744"
+		(property "LCSC" "C17414"
 			(at 27.94 64.77 0)
 			(effects
 				(font
